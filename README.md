@@ -10,7 +10,3 @@
 
 
 <a href="https://docs.oracle.com/javase/tutorial/" target="_blank"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="javascript" width="40" height="40"/> </a>
-
-
-
-https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white
