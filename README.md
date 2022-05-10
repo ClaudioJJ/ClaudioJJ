@@ -1,5 +1,5 @@
 ### Hello! I'm Claudio. Student developer in training, always learning and updating myself in professional and human development. 👨‍💻
-- 🌱 I’m currently learning Java, HTML5 and CSS3 and looking for oportunities ...
+- 🌱 I’m currently learning Java,Javascript, HTML5 and CSS3 and looking for oportunities ...
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/claudiocesarj/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="gabrielapinheiro129" height="30" width="40" /></a>
