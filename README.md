@@ -1,4 +1,4 @@
-<p align="center">I'm a Software Engineer student.</p>
+<p align="center">IT support at Cogna Education / Anhanguera Educacional / Mobile Software Engineer Student | Android | Kotlin</p>
 
 ###
 <div align="center">
