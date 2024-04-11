@@ -1,5 +1,8 @@
 <p align="center">IT support at Cogna Education / Anhanguera Educacional / Mobile Software Engineer Student | Android | Kotlin</p>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=voyager19878"/>
+
+
 ###
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false&username=ClaudioJJ" height="150" alt="stats graph"  />
